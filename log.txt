@@ -1,0 +1,19 @@
+2022-11-16 11:18:20,177 __main__ INFO 
+    .   _/|
+    .  // o\
+    .  || ._)  lichess-bot 2022.11.07.1
+    .  //__\
+    .  )___(   Play on Lichess with a bot
+    
+2022-11-16 11:18:20,673 __main__ INFO Welcome Coolman2021!
+2022-11-16 11:18:20,678 __main__ INFO You're now connected to https://lichess.org/ and awaiting challenges.
+2022-11-16 11:18:41,241 __main__ INFO --- Process Used. Count: 1. IDs: {'IALO6RSM'}
+2022-11-16 11:18:41,729 backoff INFO Backing off play_game(...) for 0.3s (chess.engine.EngineTerminatedError: engine process died unexpectedly (exit code: 1))
+2022-11-16 11:18:42,467 backoff INFO Backing off play_game(...) for 0.1s (chess.engine.EngineTerminatedError: engine process died unexpectedly (exit code: 1))
+2022-11-16 11:18:43,020 backoff INFO Backing off play_game(...) for 0.7s (chess.engine.EngineTerminatedError: engine process died unexpectedly (exit code: 1))
+2022-11-16 11:18:44,220 backoff INFO Backing off play_game(...) for 1.4s (chess.engine.EngineTerminatedError: engine process died unexpectedly (exit code: 1))
+2022-11-16 11:18:46,107 backoff INFO Backing off play_game(...) for 13.1s (chess.engine.EngineTerminatedError: engine process died unexpectedly (exit code: 1))
+2022-11-16 11:18:59,689 backoff INFO Backing off play_game(...) for 22.2s (chess.engine.EngineTerminatedError: engine process died unexpectedly (exit code: 1))
+2022-11-16 11:19:11,441 __main__ INFO +++ Process Freed. Count: 0. IDs: None
+2022-11-16 11:19:22,337 backoff INFO Backing off play_game(...) for 54.2s (chess.engine.EngineTerminatedError: engine process died unexpectedly (exit code: 1))
+2022-11-16 11:19:39,447 __main__ INFO Terminated
